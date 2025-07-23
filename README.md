@@ -33,3 +33,9 @@ This project automates the detection of TB from X-ray images using CNNs, enablin
 ```bash
 git clone https://github.com/Yuvraj0222/TB_model.git
 cd TB_model
+
+## 🔗 Download Trained Model
+
+The trained model file `my_model.keras` (~42MB) is not stored in this GitHub repo due to file size limits.
+
+👉 [Click here to download the model from Google Drive](https://drive.google.com/file/d/1yQokYlgQKkOeEME0MDAm5NfLzKPs1Zkn/view?usp=drive_link)
